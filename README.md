@@ -6,7 +6,7 @@ Just created this due to the fact that Eclipse doesn't work very well with Macs 
 What is needed??
 
 
-Get the lastest Java Standarded Edition and the lastest NetBeans here:
+Get the lastest Java Standarded Edition(SE) and the lastest NetBeans here:
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 
